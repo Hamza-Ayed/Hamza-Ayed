@@ -1,5 +1,5 @@
-Hamza Ayed
-## Mobile Developer | Flutter | Data Analyst
+# Hamza Ayed
+## Mobile Developer | Flutter | Data Analyst | Django BackEnd
 Email: hamzaayedflutter@gmail.com
 LinkedIn: hamza-ayed
 GitHub: hamza-ayed
