@@ -1,16 +1,16 @@
 # Hamza Ayed
 ## Mobile Developer | Flutter | Data Analyst | Django BackEnd
-Email: hamzaayedflutter@gmail.com
-Email: hamzaayed@mobile-app.store
-1. LinkedIn: https://www.linkedin.com/in/hamza-ayed/ 
-2. GitHub: https://github.com/hamza-ayed
-Phone: +962798583052
-Portfolio: https://mobile-app.store
+1. Email: hamzaayedflutter@gmail.com
+2. Email: hamzaayed@mobile-app.store
+3. LinkedIn: https://www.linkedin.com/in/hamza-ayed/ 
+4. GitHub: https://github.com/hamza-ayed
+5. Phone: +962798583052
+6. Portfolio: https://mobile-app.store
 ## About Me
-I am a mobile app developer with experience in Flutter, as well as a data analyst with proficiency in Python. I hold several certifications in data analytics, including Google Data Analytics, IBM Data Analyst, and Data Analysis with R Programming.
-
-I have worked as a freelance developer for 4 years and then for Fleek company for 1 year. I have experience in iOS and Android development, statistics, SQL, Firebase, database maintenance, web hosting, Dart, analytical skills, scraping, R programming language, analytical thinking, visual data representation, data collection management, Excel, GitHub, CSS, PHPMyAdmin, and more.
-
+1. Full stack development with Flutter, PHP, Python/Node.js, AI/ML and data-driven solutions. 
+2. Experience in iOS and Android development, statistics, SQL, Firebase, database maintenance, web hosting, Dart, analytical skills, scraping, R programming language, analytical thinking, visual data representation, data collection management, Excel, GitHub, CSS, PHPMyAdmin, and more.
+3. Freelance developer for 4 years and then for Fleek company for 1 year. 
+4. Certifications in data analytics, including Google Data Analytics, IBM Data Analyst, and Data Analysis with R Programming.
 ### Education
 Bachelor of Science in Mathematical, Mutah University, Karak, Jordan (GPA: Very Good)
 ## Certifications
