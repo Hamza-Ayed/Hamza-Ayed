@@ -2,8 +2,8 @@
 ## Mobile Developer | Flutter | Data Analyst | Django BackEnd
 Email: hamzaayedflutter@gmail.com
 Email: hamzaayed@mobile-app.store
-LinkedIn: hamza-ayed
-GitHub: hamza-ayed
+1. LinkedIn: https://www.linkedin.com/in/hamza-ayed/ 
+2. GitHub: https://github.com/hamza-ayed
 Phone: +962798583052
 Portfolio: https://mobile-app.store
 ## About Me
