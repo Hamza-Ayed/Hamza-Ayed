@@ -1,10 +1,11 @@
 # Hamza Ayed
 ## Mobile Developer | Flutter | Data Analyst | Django BackEnd
 Email: hamzaayedflutter@gmail.com
+Email: hamzaayed@mobile-app.store
 LinkedIn: hamza-ayed
 GitHub: hamza-ayed
 Phone: +962798583052
-Portfolio: hamza-ayed.github.io/info/
+Portfolio: https://mobile-app.store
 ## About Me
 I am a mobile app developer with experience in Flutter, as well as a data analyst with proficiency in Python. I hold several certifications in data analytics, including Google Data Analytics, IBM Data Analyst, and Data Analysis with R Programming.
 
