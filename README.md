@@ -14,19 +14,19 @@ I have worked as a freelance developer for 4 years and then for Fleek company fo
 ### Education
 Bachelor of Science in Mathematical, Mutah University, Karak, Jordan (GPA: Very Good)
 ## Certifications
-DATA ANALYSIS WITH R PROGRAMMING
-Data Analysis and Visualization Foundations
-IBM Data Analyst
-Google Data Analytics Certificate
-Python for Data Science and AI
-SQL for Data Science with R Essentials
-Programming in Python
-Introduction to Back-End Development
-SOL for Data Science
-Flutter & Dart - The Complete Flutter App Development Course
-The Complete 2019 Flutter Development Bootcamp with Dart
-Data Wrangling, Analysis and AB Testing with SQL
-Technical Support Fundamentals
+- DATA ANALYSIS WITH R PROGRAMMING
+- Data Analysis and Visualization Foundations
+- IBM Data Analyst
+- Google Data Analytics Certificate
+- Python for Data Science and AI
+- SQL for Data Science with R Essentials
+- Programming in Python
+- Introduction to Back-End Development
+- SOL for Data Science
+- Flutter & Dart - The Complete Flutter App Development Course
+- The Complete 2019 Flutter Development Bootcamp with Dart
+- Data Wrangling, Analysis and AB Testing with SQL
+- Technical Support Fundamentals
 ## Languages
 English (Intermediate)
 Turkish (Conversational)
