@@ -1,11 +1,11 @@
 # Hamza Ayed
 ## Mobile Developer | Flutter | Data Analyst | Django BackEnd
 1. Email: hamzaayedflutter@gmail.com
-2. Email: hamzaayed@mobile-app.store
+2. Email: hamzaayed@tripz-egypt.com
 3. LinkedIn: https://www.linkedin.com/in/hamza-ayed/ 
 4. GitHub: https://github.com/hamza-ayed
 5. Phone: +962798583052
-6. Portfolio: https://mobile-app.store
+6. Portfolio: https://tripz-egypt.com
 ## About Me
 1. Full stack development with Flutter, PHP, Python/Node.js, AI/ML and data-driven solutions. 
 2. Experience in iOS and Android development, statistics, SQL, Firebase, database maintenance, web hosting, Dart, analytical skills, scraping, R programming language, analytical thinking, visual data representation, data collection management, Excel, GitHub, CSS, PHPMyAdmin, and more.
