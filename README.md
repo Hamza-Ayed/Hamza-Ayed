@@ -1,111 +1,75 @@
-Hamza Ayed
-Senior Mobile Engineer | Real-Time Systems Architect | Flutter & Full-Stack Developer
+# 👋 Hi, I'm Hamza Ayed
 
-📧 Emails:
+### 🚀 Founding Mobile Engineer | Real-Time Systems Architect | Flutter Specialist
 
-hamzaayedflutter@gmail.com
+> Architecting scalable ride-hailing ecosystems & real-time mobile platforms for MENA markets. 8+ years building production systems from zero to one.
 
-hamzaayed@tripz-egypt.com
+---
 
-🌐 LinkedIn: https://www.linkedin.com/in/hamza-ayed/
+## 🔑 Core Expertise
 
-💻 GitHub: https://github.com/hamza-ayed
+| Domain | Technologies & Skills |
+|--------|------------------------|
+| **Mobile** | Flutter • Dart • BLoC/Riverpod • Google Maps Platform • iOS/Android • Offline-First Architecture |
+| **Backend** | PHP/Laravel • Node.js • WebSockets • REST APIs • MySQL • Firebase • Self-hosted Linux (Ubuntu/Nginx) |
+| **Real-Time Systems** | Live Geo-tracking • Dispatch Algorithms • WebSocket Optimization • High-Latency Network Resilience |
+| **Data & Analytics** | R Programming • SQL • Data Visualization • Business Intelligence • Google/IBM Data Analytics Certifications |
+| **DevOps & Security** | Docker • Gitea CI/CD • HMAC Security • RASP (Frida Detection) • Payment Gateway Integration |
 
-📱 Phone: +962 798 583 052
-🌐 Portfolio: https://tripz-egypt.com
+---
 
-About Me
+## 💼 Professional Highlights
 
-I am a product-oriented Senior Mobile Engineer and Real-Time Systems Architect with 8+ years of experience building scalable, production-grade mobile ecosystems. My expertise spans Flutter mobile development, backend architecture, real-time systems, and data-driven solutions, focusing on high-resilience platforms in challenging environments.
+### 🛺 TRIPZ (Cairo, Egypt) | Founding Engineer
+*Jan 2024 – Dec 2024 (Remote/Hybrid)*
+- Architected complete transportation ecosystem (Rider/Driver/Admin) from zero to production
+- Built cost-optimized PHP/MySQL backend on hardened Linux servers (99.9% uptime)
+- Engineered real-time dispatch algorithm reducing rider wait times by 37%
+- Implemented AI-powered KYC pipeline for driver onboarding + HMAC API security
 
-Core Competencies:
+### 🌐 INTALEQ | Senior Systems Engineer
+*Jan 2025 – Present (Remote)*
+- Developing high-resilience mobile platform for high-latency MENA networks
+- Integrated legacy payment providers ("Sham Cash") via custom automation layer
+- Optimized self-hosted CI/CD (Gitea) ensuring data sovereignty & rapid deployments
 
-Mobile & Frontend: Flutter, Dart, BLoC, Riverpod, Offline-First Design, iOS & Android development
+### 🌍 Freelance Consultant | Global Clients
+*2017 – 2023*
+- Delivered 30+ production apps; migrated legacy native apps to Flutter (↓50% maintenance costs)
+- Served as end-to-end technical lead: requirements → architecture → App Store submission
 
-Backend & Real-Time: PHP (Native/Laravel), Python, Node.js, Django, REST APIs, WebSockets, MySQL, Firebase
+---
 
-Infrastructure & DevOps: Linux (Ubuntu), Nginx, Docker, Self-hosted CI/CD (Gitea), Git
+## 📚 Education & Credentials
 
-Security & FinTech: HMAC, API Security, Anti-Tampering (Frida Detection), Payment Gateway Integration
+🎓 **B.Sc. in Mathematics**  
+Mu'tah University, Jordan | 2003 – 2007  
+*Applied mathematical logic to algorithmic optimization & system design*
 
-Data & Analytics: R Programming, SQL, Data Visualization, Business Intelligence, Excel, Analytical Thinking, Data Wrangling
+🎖️ **Certifications**  
+`Google Data Analytics` • `IBM Data Analyst` • `Data Analysis with R` • `Flutter & Dart (Complete Bootcamp)`
 
-Other Tools: GitHub, CSS, PHPMyAdmin, Web Hosting, Scraping, AI/ML integrations
+---
 
-I have led full-cycle mobile and web projects for startups and enterprises, including ride-hailing platforms, financial services apps, and healthcare & e-commerce solutions. My work emphasizes real-time performance, cost optimization, and secure architecture.
+## 🌐 Connect & Explore
 
-Professional Experience Highlights
+| Platform | Link |
+|----------|------|
+| **Portfolio** | [intaleqapp.com/hamza.html](https://intaleqapp.com/hamza.html) |
+| **LinkedIn** | [linkedin.com/in/hamza-ayed](https://www.linkedin.com/in/hamza-ayed/) |
+| **GitHub** | [github.com/hamza-ayed](https://github.com/hamza-ayed) |
+| **Email** | hamzaayedflutter@gmail.com |
+| **Location** | Amman, Jordan (Remote-First) |
 
-Tripz Multi-App Ecosystem – Cairo, Egypt (Remote/Hybrid)
-Lead Mobile & Backend Architect | Jan 2024 – Dec 2024
+---
 
-Architected and launched complete ride-hailing ecosystem (Rider/Driver/Admin) from zero to production
+## 💡 Why Work With Me?
 
-Engineered real-time dispatching algorithms using WebSockets
+✅ **Startup-Ready**: Thrive in zero-to-one environments with undefined requirements  
+✅ **Cost-Conscious**: Optimize infrastructure spend without sacrificing scalability  
+✅ **MENA-Optimized**: Deep experience solving high-latency, payment fragmentation challenges  
+✅ **Full Ownership**: Comfortable leading architecture → deployment → maintenance cycles
 
-Integrated AI-powered KYC identity verification
+---
 
-Achieved 99.9% uptime on self-hosted Linux infrastructure
-
-Reduced backend costs by 60% vs. cloud alternatives
-
-Intaleq Real-Time Platform – MENA Region (Remote)
-Senior Systems Engineer | Jan 2025 – Present
-
-Built high-resilience mobile platforms for high-latency networks
-
-Developed custom automation for legacy payment providers
-
-Optimized CI/CD pipelines with self-hosted Gitea, reducing deployment cycles by 40%
-
-Maintained sub-500ms transaction response times under high-latency conditions
-
-Freelance / Global Projects
-Senior Mobile Solution Architect | 2017 – 2023
-
-Delivered 30+ production-grade apps for clients worldwide
-
-Migrated legacy apps to Flutter, reducing maintenance costs by ~50%
-
-Built secure authentication, encryption, and storage for FinTech and Healthcare
-
-Education
-
-Bachelor of Science in Mathematics – Mu’tah University, Karak, Jordan
-2003 – 2007 | GPA: Very Good
-
-Applied mathematical and algorithmic knowledge to complex backend optimization, real-time system design, and data analysis.
-
-Certifications
-
-Data Analysis with R Programming
-
-Data Analysis and Visualization Foundations
-
-IBM Data Analyst Professional Certificate
-
-Google Data Analytics Professional Certificate
-
-Python for Data Science and AI
-
-SQL for Data Science with R Essentials
-
-Flutter & Dart – Complete App Development Bootcamp
-
-Data Wrangling, Analysis, and AB Testing with SQL
-
-Introduction to Backend Development
-
-Technical Support Fundamentals
-
-Languages
-
-Arabic – Native
-
-English – Full Professional
-
-Turkish – Professional / Conversational
-
-Contact Me
-
-Feel free to reach out via email or LinkedIn if you are interested in collaborating, hiring, or learning more about my experience and projects.
+> 🔒 *Security note: For sensitive inquiries, prefer LinkedIn or verified email. I do not engage with unsolicited payment requests.*
